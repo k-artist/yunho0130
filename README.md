@@ -26,7 +26,11 @@
 
 ---
 <details>
-  <summary> <b> [Github Stats]  </b> <i>(:point_left: Click)</i> </summary>
+  <summary> <b> [Github Stats]  <i>(:point_left: Click)</i> </b> 
+</summary>
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=yunho0130)](https://github.com/ryo-ma/github-profile-trophy)  
+-->
   
 [![Yunho's github stats](https://github-readme-stats.vercel.app/api?username=yunho0130&show_icons=true)](https://github.com/yunho0130/github-readme-stats)
 
